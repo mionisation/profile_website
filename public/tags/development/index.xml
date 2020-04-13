@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on Michael Ion</title>
+    <link>http://ion.bz/tags/development/</link>
+    <description>Recent content in development on Michael Ion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 20:08:01 +0000</lastBuildDate>
+    
+	<atom:link href="http://ion.bz/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Book Notes - &#34;The Pragmatic Programmer&#34; by David Thomas &amp; Andrew Hunt</title>
+      <link>http://ion.bz/posts/2020-02-10-pragmatic-programmer-notes/</link>
+      <pubDate>Mon, 10 Feb 2020 20:08:01 +0000</pubDate>
+      
+      <guid>http://ion.bz/posts/2020-02-10-pragmatic-programmer-notes/</guid>
+      <description>&amp;ldquo;The Pragmatic Programmer&amp;rdquo;, which is considered by many to be a classic text on software engineering craftsmanship, has gotten a complete do-over after it was first published 20 years ago. In the following, a summary of the books key points follows.
+Preface: Care about your craft. Always scrutinize your work and reflect on it.
+There is always room for individuality, even in a big enterprise software project.
+Kaizen - continuous, regular small improvements over a long time.</description>
+    </item>
+    
+    <item>
+      <title>Web app to merge multiple .ics files!</title>
+      <link>http://ion.bz/posts/2018-05-09-ics-file-merger/</link>
+      <pubDate>Wed, 09 May 2018 10:08:01 +0000</pubDate>
+      
+      <guid>http://ion.bz/posts/2018-05-09-ics-file-merger/</guid>
+      <description>Planning to attend a local conference, I went through all the lectures and workshops that would interest me and wanted to add them to my calendar. Thankfully, the conference website has iCalendar files available, one for each event.
+I organise my agenda with Google Calendar, but I discovered that it is not possible to just import all of these .ics files at once.
+After a quick search, I discovered there were some small command-line scripts or windows executables available to merge several .</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Code Poetry</title>
+      <link>http://ion.bz/posts/2016-04-21-introducing-code-poetry/</link>
+      <pubDate>Thu, 21 Apr 2016 19:37:01 +0000</pubDate>
+      
+      <guid>http://ion.bz/posts/2016-04-21-introducing-code-poetry/</guid>
+      <description>Today I saw a seemingly randomly hanging little poster on a wall in my university. A poster for a code poetry slam. Say what?
+I was quite familiar with the concept of poetry slams. They got quite well known in German speaking regions after the excellent poem by Julia Engelmann went crazy viral in 2013 in all major medias (which you should check out if you know German. Yes, it is full of post-teenage-angst, insecurity, everything bothering about millenials and being one, but it is technically flawless and definitely leaves an impression on everyone listening).</description>
+    </item>
+    
+  </channel>
+</rss>

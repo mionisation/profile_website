@@ -1,0 +1,130 @@
+baseURL = "http://ion.bz/"
+languageCode = "en-us"
+title = "Michael Ion"
+theme = "hugo-coder"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+    author = "Michael Ion"
+    info = "Data Engineer"
+    infosmall = "Making your data work for you."
+    description = "Michael Ion's personal website"
+    keywords = "blog,developer,personal,data,scala,python"
+    avatarurl = "images/profile.jpg"
+
+    footercontent = """Contact me for projects 
+    <a href=\"mailto:michael@ion.bz?Subject=Contract%20opportunity\" target=\"_top\">here</a>.
+    Get my CV <a href=\"/assets/michael_ion_CV.pdf\">here</a>."""
+
+    dateformat = "January 2, 2006"
+
+    hideFooter = false
+    hideCredits = true
+    hideCopyright = true
+    since = 2019
+
+    rtl = false
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorscheme = "light"
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Custom CSS
+    custom_css = []
+
+    # Custom JS
+    custom_js = []
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/mionisation/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 2
+    url = "https://twitter.com/mionisation"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/michael-ion/"
+[[params.social]]
+    name = "Medium"
+    icon = "fab fa-medium"
+    weight = 4
+    url = "https://medium.com/@michael_11724"
+[[params.social]]
+    name = "RSS"
+    icon = "fas fa-rss"
+    weight = 5
+    url = "/index.xml"
+    rel = "alternate"
+    type = "application/rss+xml"
+
+
+[languages]
+    [languages.en]
+        languagename = "English"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 1
+            url = "about/"
+
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 2
+            url = "posts/"
+
+            [[languages.en.menu.main]]
+            name = "Contact me"
+            weight = 3
+            url = "contact/"
+
+
+    [languages.de]
+        languagename = "Deutsch"
+        title = "Michael Ion"
+
+        [languages.de.params]
+            author = "Dipl.-Ing. Michael Ion"
+            info = "Data Engineer"
+            infosmall = "Lassen Sie Ihre Daten für sich arbeiten."
+            description = "Persönliche Website von Michael Ion."
+            keywords = "blog,daten,programmierer,scala,python"
+            footercontent = """Kontaktieren Sie mich für Projekte 
+            <a href=\"mailto:michael@ion.bz?Subject=Auftrag\" target=\"_top\">hier</a>.
+            Meinen Lebenslauf finden Sie <a href=\"/assets/michael_ion_CV.pdf\">hier</a>."""
+        [languages.de.menu]
+
+            [[languages.de.menu.main]]
+            name = "About"
+            weight = 1
+            url = "about/"
+
+            [[languages.de.menu.main]]
+            name = "Kontakt"
+            weight = 2
+            url = "contact/"

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://ion.bz/posts/2020-02-10-pragmatic-programmer-notes/</loc>
+    <lastmod>2020-02-10T20:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/categories/</loc>
+    <lastmod>2020-02-10T20:08:01+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://ion.bz/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ion.bz/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/categories/development/</loc>
+    <lastmod>2020-02-10T20:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/tags/development/</loc>
+    <lastmod>2020-02-10T20:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/categories/education/</loc>
+    <lastmod>2020-02-10T20:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/tags/education/</loc>
+    <lastmod>2020-02-10T20:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/</loc>
+    <lastmod>2020-02-10T20:08:01+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://ion.bz/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ion.bz/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/posts/</loc>
+    <lastmod>2020-02-10T20:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/tags/self-help/</loc>
+    <lastmod>2020-02-10T20:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/tags/</loc>
+    <lastmod>2020-02-10T20:08:01+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://ion.bz/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ion.bz/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/posts/2019-09-05-ten-reasons-social-media-notes/</loc>
+    <lastmod>2019-09-05T10:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/tags/social-media/</loc>
+    <lastmod>2019-09-05T10:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/tags/calendar/</loc>
+    <lastmod>2018-05-09T10:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/tags/web-app/</loc>
+    <lastmod>2018-05-09T10:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/posts/2018-05-09-ics-file-merger/</loc>
+    <lastmod>2018-05-09T10:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/categories/analytics/</loc>
+    <lastmod>2017-02-21T20:12:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/tags/analytics/</loc>
+    <lastmod>2017-02-21T20:12:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/posts/2017-02-21-comparing-transportation-project/</loc>
+    <lastmod>2017-02-21T20:12:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/tags/data/</loc>
+    <lastmod>2017-02-21T20:12:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/tags/r/</loc>
+    <lastmod>2017-02-21T20:12:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/tags/code/</loc>
+    <lastmod>2016-04-21T19:37:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/posts/2016-04-21-introducing-code-poetry/</loc>
+    <lastmod>2016-04-21T19:37:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/tags/poetry/</loc>
+    <lastmod>2016-04-21T19:37:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://ion.bz/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ion.bz/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://ion.bz/de/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ion.bz/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/snippets/first/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/snippets/second/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://ion.bz/de/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ion.bz/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ion.bz/snippets/</loc>
+  </url>
+  
+</urlset>

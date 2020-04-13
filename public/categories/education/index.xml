@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Michael Ion</title>
+    <link>http://ion.bz/categories/education/</link>
+    <description>Recent content in Education on Michael Ion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 20:08:01 +0000</lastBuildDate>
+    
+	<atom:link href="http://ion.bz/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Book Notes - &#34;The Pragmatic Programmer&#34; by David Thomas &amp; Andrew Hunt</title>
+      <link>http://ion.bz/posts/2020-02-10-pragmatic-programmer-notes/</link>
+      <pubDate>Mon, 10 Feb 2020 20:08:01 +0000</pubDate>
+      
+      <guid>http://ion.bz/posts/2020-02-10-pragmatic-programmer-notes/</guid>
+      <description>&amp;ldquo;The Pragmatic Programmer&amp;rdquo;, which is considered by many to be a classic text on software engineering craftsmanship, has gotten a complete do-over after it was first published 20 years ago. In the following, a summary of the books key points follows.
+Preface: Care about your craft. Always scrutinize your work and reflect on it.
+There is always room for individuality, even in a big enterprise software project.
+Kaizen - continuous, regular small improvements over a long time.</description>
+    </item>
+    
+    <item>
+      <title>Book Notes - &#34;Ten Arguments For Deleting Your Social Media Accounts Right Now&#34; by Jaron Lanier</title>
+      <link>http://ion.bz/posts/2019-09-05-ten-reasons-social-media-notes/</link>
+      <pubDate>Thu, 05 Sep 2019 10:08:01 +0000</pubDate>
+      
+      <guid>http://ion.bz/posts/2019-09-05-ten-reasons-social-media-notes/</guid>
+      <description>In this very timely book, the author argues that the way social media has evolved is doing more harm to society than good. This is closely tied to the way online companies are making money (advertising). What follows is the summary of the Lanier&amp;rsquo;s key points and his thoughts on how to improve the situation.
+One: You are losing your free will New technology makes it easy to
+ Collect vast amounts of data about you Take ruckschluss and Adapt marketing on an individual level  Dopamine driven feedback loops allow for behaviour modification to the level of addiction.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Code Poetry</title>
+      <link>http://ion.bz/posts/2016-04-21-introducing-code-poetry/</link>
+      <pubDate>Thu, 21 Apr 2016 19:37:01 +0000</pubDate>
+      
+      <guid>http://ion.bz/posts/2016-04-21-introducing-code-poetry/</guid>
+      <description>Today I saw a seemingly randomly hanging little poster on a wall in my university. A poster for a code poetry slam. Say what?
+I was quite familiar with the concept of poetry slams. They got quite well known in German speaking regions after the excellent poem by Julia Engelmann went crazy viral in 2013 in all major medias (which you should check out if you know German. Yes, it is full of post-teenage-angst, insecurity, everything bothering about millenials and being one, but it is technically flawless and definitely leaves an impression on everyone listening).</description>
+    </item>
+    
+  </channel>
+</rss>

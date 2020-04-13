@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Developing Kafka Streams in Scala - Part 1: Introduction"
+date:   2019-08-05 10:08:01
+---
+
+I have been writing data processing pipelines in Kafka Streams in the last few months. Because the language of choice of my team was Scala, that meant using the Scala DSL for Kafka Streams. Unfortunately, there are not that many good resources for this, and being relatively new to Scala, it was sometimes difficult to understand the official Confluent documentation. Therefore, I have decided to give some examples for using the Streams Scala DSL and writing useful real-time data processing pipelines in Kafka Streams. We will not dive straight away into it, though - this first article gives a quick introduction to Kafka and Kafka Streams in general and will also be useful if you use the Java DSL.
+
+What is Apache Kafka?
+
+The parts of a Kafka Pipeline
+
+[local conference][wad]
+[http://michaelion.net/icsMerge][tool]
+
+[wad]: https://wearedevelopers.com
+[tool]: https://michaelion.net/icsMerge

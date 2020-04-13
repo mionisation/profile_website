@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Michael Ion</title>
+    <link>http://ion.bz/categories/</link>
+    <description>Recent content in Categories on Michael Ion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 20:08:01 +0000</lastBuildDate>
+    
+	<atom:link href="http://ion.bz/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>http://ion.bz/categories/development/</link>
+      <pubDate>Mon, 10 Feb 2020 20:08:01 +0000</pubDate>
+      
+      <guid>http://ion.bz/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://ion.bz/categories/education/</link>
+      <pubDate>Mon, 10 Feb 2020 20:08:01 +0000</pubDate>
+      
+      <guid>http://ion.bz/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytics</title>
+      <link>http://ion.bz/categories/analytics/</link>
+      <pubDate>Tue, 21 Feb 2017 20:12:01 +0000</pubDate>
+      
+      <guid>http://ion.bz/categories/analytics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

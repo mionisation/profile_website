@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Ion</title>
+    <link>http://ion.bz/de/</link>
+    <description>Recent content on Michael Ion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://ion.bz/de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://ion.bz/de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ion.bz/de/contact/</guid>
+      <description>Es gibt eine Vielzahl an Möglichkeiten, wie Sie mich erreichen können:
+ Senden Sie mir eine Mail. Kontaktieren Sie mich auf LinkedIn. Folgen Sie mir auf Twitter. Besuchen Sie mein Github. Lesen Sie mich auf Medium.  </description>
+    </item>
+    
+    <item>
+      <title>Über mich</title>
+      <link>http://ion.bz/de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ion.bz/de/about/</guid>
+      <description>Mein Name ist Dipl.-Ing. Michael Ion und ich entwerfe und baue datenintensive Systeme.
+Momentan verwende ich Scala und Python um Datenprobleme zu lösen. Auf der DevOps Seite verwende ich Terraform auf AWS.
+Ich habe mein Diplomstudium and der TU Wien absolviert.
+Ich beherrsche Deutsch &amp;amp; English fließend, kann aber auch auf Französisch &amp;amp; Rumänisch kommunizieren.
+Ich habe immer ein offenes Ohr für Ihr Projekt: Kontaktieren Sie mich
+ Diese Seite wurde mit Hugo &amp;amp; Coder realisiert und läuft auf Linode mit Ansible.</description>
+    </item>
+    
+  </channel>
+</rss>

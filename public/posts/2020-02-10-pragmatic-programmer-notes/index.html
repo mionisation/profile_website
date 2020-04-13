@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="Michael Ion">
+    <meta name="description" content="Michael Ion&#39;s personal website">
+    <meta name="keywords" content="blog,developer,personal,data,scala,python">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Book Notes - &#34;The Pragmatic Programmer&#34; by David Thomas &amp; Andrew Hunt"/>
+<meta name="twitter:description" content="Summary of the book &#34;The Pragmatic Programmer&#34; by David Thomas &amp; Andrew Hunt"/>
+
+    <meta property="og:title" content="Book Notes - &#34;The Pragmatic Programmer&#34; by David Thomas &amp; Andrew Hunt" />
+<meta property="og:description" content="Summary of the book &#34;The Pragmatic Programmer&#34; by David Thomas &amp; Andrew Hunt" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://ion.bz/posts/2020-02-10-pragmatic-programmer-notes/" />
+<meta property="article:published_time" content="2020-02-10T20:08:01+00:00" />
+<meta property="article:modified_time" content="2020-02-10T20:08:01+00:00" />
+
+
+    
+      <base href="http://ion.bz/posts/2020-02-10-pragmatic-programmer-notes/">
+    
+    <title>
+  Book Notes - &#34;The Pragmatic Programmer&#34; by David Thomas &amp; Andrew Hunt · Michael Ion
+</title>
+
+    
+      <link rel="canonical" href="http://ion.bz/posts/2020-02-10-pragmatic-programmer-notes/">
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="http://ion.bz/css/coder.min.60ec3ae69e7338ec6d89bd8659bfd6767ced8fe1ef4381880eedbbe95e06efae.css" integrity="sha256-YOw65p5zOOxtib2GWb/Wdnztj&#43;HvQ4GIDu276V4G764=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="http://ion.bz/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="http://ion.bz/images/favicon-16x16.png" sizes="16x16">
+
+    <meta name="generator" content="Hugo 0.69.0" />
+  </head>
+
+  
+  
+  <body class="colorscheme-light">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="http://ion.bz/">
+      Michael Ion
+    </a>
+    
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+    <ul class="navigation-list">
+      
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="http://ion.bz/about/">About</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="http://ion.bz/posts/">Blog</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="http://ion.bz/contact/">Contact me</a>
+          </li>
+        
+      
+      
+        
+        
+        
+      
+    </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">Book Notes - &#34;The Pragmatic Programmer&#34; by David Thomas &amp; Andrew Hunt</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fas fa-calendar"></i>
+              <time datetime='2020-02-10T20:08:01Z'>
+                February 10, 2020
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fas fa-clock"></i>
+              11-minute read
+            </span>
+          </div>
+          <div class="categories">
+  <i class="fas fa-folder"></i>
+    <a href="http://ion.bz/categories/development/">Development</a>
+      <span class="separator">•</span>
+    <a href="http://ion.bz/categories/education/">Education</a></div>
+
+          <div class="tags">
+  <i class="fas fa-tag"></i>
+    <a href="http://ion.bz/tags/education/">education</a>
+      <span class="separator">•</span>
+    <a href="http://ion.bz/tags/development/">development</a>
+      <span class="separator">•</span>
+    <a href="http://ion.bz/tags/self-help/">self-help</a></div>
+
+        </div>
+      </header>
+
+      <div>
+        
+        <p>&ldquo;The Pragmatic Programmer&rdquo;, which is considered by many to be a classic text on software engineering craftsmanship, has gotten a complete do-over after it was first published 20 years ago. In the following, a summary of the books key points follows.</p>
+<!-- raw HTML omitted -->
+<h2 id="preface">Preface:</h2>
+<p>Care about your craft. Always scrutinize your work and reflect on it.</p>
+<p>There is always room for individuality, even in a big enterprise software project.</p>
+<p><em>Kaizen</em> - continuous, regular small improvements over a long time. Applicable for factories &amp; processes, but also personal development</p>
+<h2 id="one-a-pragmatic-philosophy">One: A Pragmatic Philosophy</h2>
+<p>This chapter sets some basic guidelines of the pragmatic programmer approach:</p>
+<ol>
+<li>
+<p>&ldquo;It&rsquo;s your life&rdquo; - you have agency: In choosing projects, switching jobs, working remotely, learning new technologies. It&rsquo;s a flexible career and you can always adapt.</p>
+</li>
+<li>
+<p>&ldquo;The cat ate my source code&rdquo; - taking responsibility for your work (and your errors).
+Don&rsquo;t make excuses or shift the blame. Provide options: What can be done? Be honest and direct. Trust in your team is essential - for working and speaking your mind. It&rsquo;s ok to need more resources - time or knowledge. If you say &ldquo;I don&rsquo;t know&rdquo;, add &ldquo;but I&rsquo;ll find out&rdquo;.</p>
+</li>
+<li>
+<p>&ldquo;Software entropy&rdquo; - once you have a broken window in a house, it deteriorates quickly and turns eventually in a ruin. Same applies to software: One bad piece of code or management decision can influence whole team + project - hopelessness is contagious. Remove technical debt / software rot (or at least do preliminary solution). Therefore: Don&rsquo;t live with broken windows.</p>
+</li>
+<li>
+<p>&ldquo;Stone soup and boiled frogs&rdquo; - a story: Soldiers have no food and villagers withholds their food. They boil some stones, villagers get curious and ask. They say, it&rsquo;s good, but better with vegetables. One by one, villagers go and get the food they were saving.</p>
+<p>Learnings:</p>
+<ol>
+<li>&ldquo;Be a catalyst for change&rdquo; - to get the change you want, you often have to ask for a smaller, more realistic thing. Once people see that it goes into the right direction, they want to be part of the success, give you more ressources to accomplish your project.</li>
+<li>&ldquo;Remember the big picture&rdquo; - don&rsquo;t be too focused on the &ldquo;stones&rdquo; while forgetting what happens around you. Be aware of the context. A frog in a gradually heated pot doesn&rsquo;t notice the change and gets cooked.</li>
+</ol>
+</li>
+<li>
+<p>&ldquo;Good enough software&rdquo; - Good software now is better than perfect software in a year. Involve your users early, know what they want: Make Quality a requirements issue.</p>
+</li>
+<li>
+<p>&ldquo;Your knowledge portfolio&rdquo; - needs managing like a financial portfolio:</p>
+<ul>
+<li>Invest regularly - learn consistently, make it a habit</li>
+<li>Diversify - learn lots of different things; specialise in what&rsquo;s important now but be aware of broader spectrum</li>
+<li>Manage risk - don&rsquo;t put all &ldquo;technical eggs&rdquo; in a risky basket; but also: low risk, low reward</li>
+<li>Buy low, sell high - learn emerging tech</li>
+<li>Review and rebalance - reevaluate what is worth learning and focusing on</li>
+</ul>
+<p>Set goals - examples:</p>
+<ul>
+<li>Learn a new language every year</li>
+<li>Read a technical book each month - don&rsquo;t forget nontechnical (soft skill) ones</li>
+<li>Take classes</li>
+<li>Participate actively in local user groups / meetups</li>
+<li>Experiment with different environments: IDE vs makefiles</li>
+<li>Stay current, read versatile news</li>
+</ul>
+<p>Doesn&rsquo;t matter if you don&rsquo;t use all you learned in a project. The process is what counts and will you make think in new ways.</p>
+<p>Be on the lookout for learning opportunities. Use your free time.</p>
+<p>Critically analyze what you hear and read: Often ask &ldquo;Why?&quot;, &ldquo;Who benefits?&quot;, &ldquo;What&rsquo;s the context?&quot;, &ldquo;When/Where would it work?&rdquo; etc.</p>
+</li>
+<li>
+<p>&ldquo;Communicate!&rdquo; - communication is essential for ideas to develop and projects to be successful.</p>
+<p>Treat writing natural language with the same care as coding. Then, like a programming language, it will have an effect and get others to convince to your ideas.</p>
+<p>Tailor your message on your target audience. Outline what you want to say. Choose the right moment to talk. Choose the right style for the message. If on paper, put effort to make it look nice. Ask for feedback, strive for having a dialogue. Listen to people, and they will listen to you. Get back to people. It&rsquo;s how you say it as much as what you say. Documentation should be built in: Say <em>why</em> it is done that way, not <em>how</em>.</p>
+</li>
+</ol>
+<h2 id="two-a-pragmatic-approach">Two: A Pragmatic Approach</h2>
+<p>The essence of good design is being &ldquo;easier to change (ETC)&rdquo; than bad design. Every design pattern out there can be traced back to ETC. With everything you do, ask yourself: Is this ETC? Following approaches trace back to ETC:</p>
+<p>DRY - Don&rsquo;t replicate yourself. Every single piece of knowledge must have a unique representation in a system. Duplication of intent in documentation, processes and code makes maintenance harder and breaks things.  Maintenance starts with begin of development (agile approach), not its end.</p>
+<p>A project is DRY proof, if a change doesn&rsquo;t necessitate several changes in code, documentation, database schemas etc.</p>
+<p><em>Code duplication</em> is OK, even make sense if it is not <em>knowledge duplication</em>. Don&rsquo;t duplicate the behaviour of code in its documentation. Don&rsquo;t define a dependent variable explicitly, create it from dependencies. Cached data (attributes from storage instead computation) violates DRY, but keep this local.</p>
+<p>When your code exchanges data with internal or external services or databases DRY is violated due to <em>representational duplication</em>. A change on one end breaks the other. Mitigate this by using tools like OpenAPI to import the API spec; host your API on a central repository; for data sources generate containers and import the data schema; or store everything in neutral key/value maps and write checkers for each different data source.</p>
+<p><em>Interdeveloper duplication</em> happens when programmers in an org create the same functionality. Increase communication over chat and scrum meetings. Appoint a project librarian. The best way to avoid it is to make your code easy to reuse.</p>
+<p>In maths, two orthogonal vectors are independent of each other. <em>Orthogonality</em> in software means that unrelated components should not affect each other. Write cohesive, self-contained, independent components with a single purpose. Orthogonal software increases productivity and reduces risk by localization, reduced complexity and easier testing.</p>
+<p>Modules and layers are examples of patterns enabling orthogonality. Specific layers are easy to change as interfacing layers only know about the exposed abstractions. E.g. the UI layer should be easily replacable independently from the database schema.</p>
+<p>Adding libraries and toolkits might infringe orthogonality. Keep your code decoupled. Pass context to classes as parameters. Take care using global references and Singletons. Refactor similar functions.</p>
+<p>If a lot of secondary code needs to be imported for a unit test of a module, this might show a problem. Same goes for if a bug fix involves multiple touches.</p>
+<p>Plan for reversibility. No decision is final. Aim for flexible code, architecture and vendor integration. Don&rsquo;t fall for fads.</p>
+<p>Tracer bullets are a concept of finding the target fast, under real circumstances and gives us and users feedback. Tracer code could be a single feature, implemented end-to-end across all layers while the rest is still a skeleton. It is not temporary, just misses functionality which is added in increments. This approach is good for users as visible results are gained fast, as well as developers, as existing code is like a template and continous integration is easier. Tracer bullets are used when direction is unclear. However, if they don&rsquo;t &ldquo;hit&rdquo;, it is necessary to reiterate. It&rsquo;s not a prototype, as that is disposable and happens before tracer bullets, which is the actual thing.</p>
+<p>Prototyping comes into play when the main aim is to learn and discover. It can be UI, architecture, logic or anything, really. It can be high-level code but also whiteboards, post-it notes or anything else to explore ideas counts. Prototypes don&rsquo;t have to be complete, robust, correct or well styled. Don&rsquo;t deploy or build onto it.</p>
+<p>Domain Languages can simplify development. External DL need to convert their code before using it (Ansible, Cucumber), internal DL are built as extensions of a language and don&rsquo;t need conversion but are tightly linked to their language (RSpec or similar testing frameworks). Only create an external DL if it&rsquo;s for your users in the future.</p>
+<p>Estimating well comes with experience. One approach is to give best case, worst case and realistic estimation. Best estimation is when you have begun with the project. Schedules need to be reiterated along project components. When asked, say &ldquo;I&rsquo;ll get back to you&rdquo;.</p>
+<h2 id="three-the-basic-tools">Three: The Basic Tools</h2>
+<p>Always be on the lookout for <strong>new tools</strong> that improve productivity. Don&rsquo;t be trapped in a single comfy IDE.</p>
+<p>Keep code and knowledge in <strong>plain text</strong> (like structured data and protocols are).</p>
+<p>Learn to use the <strong>shell</strong> and harness its power. Customize theme, prompt and create aliases for often used commands.</p>
+<p>Achieve <strong>editor fluency</strong> to become more efficient and have less mental clutter while programming. Focus on learning the commands that make your job specifically easier. Reflect on what you&rsquo;re doing, find better ways to and repeat newly learned tricks.</p>
+<p>Use <strong>version control</strong> with everything (projects, computer configuration…). It allows for collaboration, release version tagging, undo errors and archive work. You can use isolated feature branches as part of your workflow. Third party VCS offer useful features like pull request support, triggering builds and team communication.</p>
+<p>Rephrase <strong>debugging</strong> to just solving a problem that needs to be fixed. Don&rsquo;t blame and don&rsquo;t panic, the first step is to get into the mindset: Fixing the root cause above all else, step back and think.</p>
+<p>A good first step is to make a failing test that exposes the bug on the push of a button, then fix it.</p>
+<p>Read the damn error message.</p>
+<p>Learn how to move in the call stack of the debugger. Keep notes. Use divide and conquer approach with input data to find the offending part. Tracing via logging can be effective. Explaining what the code does step by step can reveal bugs by itself. Blame your code first, not the system. Challenge your assumptions and prove them.</p>
+<p>Learn basic text tools such as <code>grep</code>, <code>awk</code> or <code>sed</code>.</p>
+<p>Keep an <strong>engineering daybook</strong> in paper for storing ideas, an extension of your memories, meeting notes, sketches, reflection and keeping trace of debugging values.</p>
+<h2 id="four-pragmatic-paranoia">Four: Pragmatic Paranoia</h2>
+<p>No Software is perfect. This chapter discusses defensive measures that ensures that things run smoothly.</p>
+<p><strong>Design by Contract</strong> (DBC) ensures keeping state for a method. We specify preconditions (what has to be fulfilled to call), postconditions (what to expect from result) and invariants (what is always valid). Some languages have DBC support, but it can be also achieved with comments or assertions. DBC is additional to any testing.</p>
+<p><strong>Crash early</strong> to terminate faulty programs and get to the root quickly.</p>
+<p>User <strong>assertions</strong> in regular code to check that <em>impossible</em> things do not happen. Leave assertions on in production.</p>
+<p>Act locally. Deallocate a resource in the same context where you allocated them. When dealing with multiple ones: In the same context, deallocate in reverse order (avoid orphan dependencies); in different contexts in same order (avoid deadlock of shared data).</p>
+<p>When OOP, wrap your resource in a class so that the destructor frees it.</p>
+<p>When having exceptions, deallocation has to happen with <code>finally</code> clause or variable scope (e.g. stack vars).</p>
+<p>Deallocating dynamic data structures (their children) depends on the use case. Write code to check resources are actually freed.</p>
+<p>Take always small steps - don&rsquo;t &ldquo;outrun your headlights&rdquo;, which means for us &ldquo;rate of feedback&rdquo;. Feedback can be from testing, an IDE or a user demo. Avoid any fortune telling.</p>
+<h2 id="five-bend-or-break">Five: Bend, or Break</h2>
+<p>Your code should be <strong>decoupled</strong>. This makes it easier to change.</p>
+<p><strong>Tell don&rsquo;t ask</strong> (TDA) means instead of using functions to retrieve objects on which to execute logic on, we supply direct functions that do this logic (remove the &ldquo;get&rdquo;). This strengthens encapsulation and allows to accomodate changes in the logic at the root of the object. Don&rsquo;t chain method calls when you <em>access</em> something.</p>
+<p>Avoid mutable global data (variables and singletons with access methods included!). If it should be global, wrap it in an API.</p>
+<p>An event means <em>availability of information</em>. Following are strategies to use events in a system:</p>
+<ul>
+<li><strong>Finite State Machines</strong> define certain states and to what based on an event. Try to find use cases for FSMs. Combine with actions that should be triggered on certain state transitions.</li>
+<li><strong>Observer Pattern</strong> defines a source of events (<em>Observables</em>) and <em>Observers</em>, executing functions when the event occurs. <em>Observers</em> pass a callable reference to the <em>Observable</em>. Performance issues and strong coupling can occur.</li>
+<li><strong>Publish/Subscribe</strong> denotes a pattern where channels deliver (asynchronous) events. The <em>PubSub</em> model connects publishers and subscribers and is offered by many libraries and cloud providers. As complexity is abstracted into the channel, decoupling is reduced.</li>
+<li><strong>Reactive Programming, Streams and Events.</strong> More and more libraries include instant response to event-driven changes in data. Reactivex.io defines principles on reactive programming and handling event streams. Streams can be used in programming like normal collections and are populated as events occur. Event-based programming gains popularity. Time does not need to be managed anymore, we only specify the processing.</li>
+</ul>
+<p>Programming is about code, but programs are about data. Think first about transforming inputs to outputs, not about the code and how to realise it.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      
+  <footer class="footer">
+    <section class="container">
+      
+        <p>Contact me for projects 
+    <a href="mailto:michael@ion.bz?Subject=Contract%20opportunity" target="_top">here</a>.
+    Get my CV <a href="http://ion.bz/assets/michael_ion_CV.pdf">here</a>.</p>
+      
+      
+      
+      
+    </section>
+  </footer>
+
+    </main>
+
+    
+
+    
+
+  </body>
+
+</html>
