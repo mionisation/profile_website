@@ -9,4 +9,4 @@ There are a lot of ways to get in touch with me:
 - Contact me on [LinkedIn](https://linkedin.com/in/michael-ion).
 - Follow me on [Twitter](https://twitter.com/mionisation).
 - Star me on [Github](https://github.com/mionisation).
-- Read me on [Medium](https://medium.com/@michael_11724).
+- Read me on [Medium](https://medium.com/@michael_ion).

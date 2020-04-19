@@ -1,4 +1,4 @@
-baseURL = "michaelion.net"
+baseURL = "/"
 languageCode = "en-us"
 title = "Michael Ion"
 theme = "hugo-coder"
@@ -72,7 +72,7 @@ pygmentscodefencesguesssyntax = true
     name = "Medium"
     icon = "fab fa-medium"
     weight = 4
-    url = "https://medium.com/@michael_11724"
+    url = "https://medium.com/@michael_ion"
 [[params.social]]
     name = "RSS"
     icon = "fas fa-rss"
