@@ -1,4 +1,4 @@
-baseURL = "https://michaelion.net"
+baseURL = "michaelion.net"
 languageCode = "en-us"
 title = "Michael Ion"
 theme = "hugo-coder"
