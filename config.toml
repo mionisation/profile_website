@@ -21,7 +21,7 @@ pygmentscodefencesguesssyntax = true
 
     footercontent = """Contact me for projects 
     <a href=\"mailto:michael@ion.bz?Subject=Contract%20opportunity\" target=\"_top\">here</a>.
-    Get my CV <a href=\"/assets/michael_ion_CV.pdf\">here</a>."""
+    Get my CV <a href=\"/assets/CV.pdf\">here</a>."""
 
     dateformat = "January 2, 2006"
 
@@ -116,7 +116,7 @@ pygmentscodefencesguesssyntax = true
             keywords = "blog,daten,programmierer,scala,python"
             footercontent = """Kontaktieren Sie mich für Projekte 
             <a href=\"mailto:michael@ion.bz?Subject=Auftrag\" target=\"_top\">hier</a>.
-            Meinen Lebenslauf finden Sie <a href=\"/assets/michael_ion_CV.pdf\">hier</a>."""
+            Meinen Lebenslauf finden Sie <a href=\"/assets/CV.pdf\">hier</a>."""
         [languages.de.menu]
 
             [[languages.de.menu.main]]
