@@ -3,7 +3,8 @@ title = "Über mich"
 slug = "about"
 +++
 
-Mein Name ist Dipl.-Ing. Michael Ion und ich entwerfe und baue datenintensive Systeme.
+<!-- Mein Name ist Dipl.-Ing. Michael Ion und ich entwerfe und baue datenintensive Systeme. -->
+Mein Name ist Michael Ion und ich entwerfe und baue datenintensive Systeme.
 
 Momentan verwende ich Scala und Python um Datenprobleme zu lösen. Auf der DevOps Seite verwende ich Terraform auf AWS.
 

@@ -109,7 +109,8 @@ pygmentscodefencesguesssyntax = true
         title = "Michael Ion"
 
         [languages.de.params]
-            author = "Dipl.-Ing. Michael Ion"
+            # author = "Dipl.-Ing. Michael Ion"
+            author = "Michael Ion"
             info = "Scala / Data Engineer"
             infosmall = "Lassen Sie Ihre Daten für sich arbeiten."
             description = "Persönliche Website von Michael Ion."
