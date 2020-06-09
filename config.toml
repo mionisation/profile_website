@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Michael Ion"
-    info = "Scala / Data Engineer"
+    info = "Data Engineer (Scala/Python/Java)"
     infosmall = "Making your data work for you."
     description = "Michael Ion's personal website"
     keywords = "blog,developer,personal,data,scala,python"
@@ -111,7 +111,7 @@ pygmentscodefencesguesssyntax = true
         [languages.de.params]
             # author = "Dipl.-Ing. Michael Ion"
             author = "Michael Ion"
-            info = "Scala / Data Engineer"
+            info = "Data Engineer (Scala/Python/Java)"
             infosmall = "Lassen Sie Ihre Daten für sich arbeiten."
             description = "Persönliche Website von Michael Ion."
             keywords = "blog,daten,programmierer,scala,python"
