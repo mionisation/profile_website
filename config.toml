@@ -116,7 +116,7 @@ pygmentscodefencesguesssyntax = true
             keywords = "blog,daten,programmierer,scala,python"
             footercontent = """Kontaktieren Sie mich für Projekte 
             <a href=\"mailto:michael@ion.bz?Subject=Auftrag\" target=\"_top\">hier</a>.
-            Meinen Lebenslauf finden Sie <a href=\"/assets/CV.pdf\">hier</a>."""
+            Meinen Lebenslauf finden Sie <a href=\"/assets/CV_de.pdf\">hier</a>."""
         [languages.de.menu]
 
             [[languages.de.menu.main]]
